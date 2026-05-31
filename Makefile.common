@@ -54,6 +54,7 @@
 # INC				list of inlude folders
 # DEF				list of compile time definitions
 # EXTRAF			additional compilation flags
+# LDFLAGS			extra linker flags
 #
 ################################################################################
 
